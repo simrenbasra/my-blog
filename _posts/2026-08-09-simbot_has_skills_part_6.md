@@ -32,7 +32,7 @@ Up until now, I purposely kept the architecture simple.
 A user's message is passed to an orchestrator, which determines the intent of the user's query and then routes it to a single skill.
 
 <div style="text-align: center;">
-  <img src="{{ site.baseurl }}/assets/simbot_has_skills/current_arch.png" alt="Cover photo" style="max-width: 100%; height: auto; margin: 20px 0;">
+  <img src="{{ site.baseurl }}/assets/simbot_has_skills/current_arch.png" alt="Current architecture" style="max-width: 100%; height: auto; margin: 20px 0;">
 </div>
 
 For example, if the user asks:
@@ -121,9 +121,12 @@ The learner state might look something like:
 **Latest quiz score:** 3/5
 
 The orchestrator can use this to decide what action to take. In this case, it might decide to call the explanation skill again but specifically focus on self-attention and how it is used within transformers.
-So now, the workflow starts to look more like:
 
-`User → Orchestrator → Skill → Update Learner State → Orchestrator → Skill → ...`
+So now, the workflow starts to look more like: `User → Orchestrator → Skill → Update Learner State → Orchestrator → Skill → ...`
+
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/assets/simbot_has_skills/new_arch.png" alt="New Architecture" style="max-width: 100%; height: auto; margin: 20px 0;">
+</div>
 
 The individual skills haven't become more complicated.
 

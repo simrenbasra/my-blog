@@ -122,7 +122,7 @@ The learner state might look something like:
 
 The orchestrator can use this to decide what action to take. In this case, it might decide to call the explanation skill again but specifically focus on self-attention and how it is used within transformers.
 
-So now, the workflow starts to look more like: `User → Orchestrator → Skill → Update Learner State → Orchestrator → Skill → ...`
+So now, the workflow starts to look more like:
 
 <div style="text-align: center;">
   <img src="{{ site.baseurl }}/assets/simbot_has_skills/new_arch.png" alt="New Architecture" style="max-width: 100%; height: auto; margin: 20px 0;">

@@ -69,7 +69,7 @@ _**"What should happen next to help the user learn?"**_
 
 <br>
 
-## From Intent to Learning Orchestration
+## From Intent to Learning
 
 Take the same example: a user says, _**“Teach me about transformers.”**_
 

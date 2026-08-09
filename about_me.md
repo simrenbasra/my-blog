@@ -8,9 +8,6 @@ permalink: /about/
   <img src="{{ site.baseurl }}/assets/index/new_cover_photo.jpg" alt="Photo 2" style="max-width: 50%; height: auto; margin: 20px 0;">
 </div>
 
-
-## About Me
-
 Hi, I’m Simy, and I believe that data can be fun for everyone!
 
 I’m a Junior AI Engineer with a background in Computer Science, software consulting and fintech. I created this blog to document my journey into AI, share what I’m learning and hopefully make some of the concepts I once found intimidating feel a little more approachable.

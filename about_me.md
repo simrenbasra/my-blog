@@ -8,7 +8,14 @@ permalink: /about/
   <img src="{{ site.baseurl }}/assets/index/new_cover_photo.jpg" alt="Photo 2" style="max-width: 50%; height: auto; margin: 20px 0;">
 </div>
 
-Hi, I’m Simy and I believe that data can be fun for everyone! 
+
+## About Me
+
+Hi, I’m Simy, and I believe that data can be fun for everyone!
+
+I’m a Junior AI Engineer with a background in Computer Science, software consulting and fintech. I created this blog to document my journey into AI, share what I’m learning and hopefully make some of the concepts I once found intimidating feel a little more approachable.
+
+### How I Got Here
 
 Looking back, quitting my job in software consulting probably sounds like a bold move. And to be honest, I wasn’t entirely sure it was the right decision.
 
@@ -47,7 +54,5 @@ The idea is to build on my chatbot, SimBot, by turning it into something more in
 ### Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/simrenbasra/)
-
-[Substack](https://simrenbasra.substack.com/?utm_campaign=profile_chips)
 
 [GitHub](https://github.com/simrenbasra)

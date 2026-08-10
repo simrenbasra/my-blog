@@ -154,7 +154,7 @@ My plan is to tweak the orchestrator in stages.
 
 Before changing the orchestrator, I want to make a few tweaks to the existing skills, such as:
 
--	**Explanation skill:** Ensure it doesn't simply ask the user questions but provides useful material that the user can actually learn from.
+-	**Explanation skill:** Ensure it doesn't just answer the user's question, but teaches the topic by providing explanations and examples that the user can genuinely learn from.
   
 -	**Quiz skill:** Ensure it doesn't reveal the answers directly. Instead, it should return the user's score, areas for improvement and then explain why their answers were incorrect.
 

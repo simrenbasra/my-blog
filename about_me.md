@@ -20,7 +20,7 @@ I enjoyed the work, but something was off. The day-to-day tasks no longer challe
 
 Before making the leap, I spent a few years working in software implementation for fintech. During that time, I moved between a few different companies thinking a different environment and a fresh start would help.
 
-But I realised it wasn’t just about the company or the projects; it was the kind of work I was doing.
+But I realised it wasn’t just about the company or the projects, it was the kind of work I was doing.
 
 That was the moment I decided to start focusing on AI.
 
